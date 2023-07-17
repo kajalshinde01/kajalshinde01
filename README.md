@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kajalshinde01
+                   - 👋 Hi, I’m @kajalshinde01
 - 👀 I’m interested in  Web development
 - 📫 How to reach me shindekajalnp@gmail.com
 
